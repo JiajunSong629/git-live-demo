@@ -1,3 +1,5 @@
 # git-live-demo
 
-This from my local pc.
+
+Let's make a merge conflict, starting on GitHub.
+
