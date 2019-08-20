@@ -1,4 +1,3 @@
 # git-live-demo
 
-Try!
-Second Try!
+Change in the local repository.
